@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello world! - change 1 from clone");
+        System.out.println("Hello world! - change 1 from clone, now im doing task 6");
     }
 }
